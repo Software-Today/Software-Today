@@ -105,13 +105,13 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 ### Web & Mobile application using various frameworks
 <br />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Tomas&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Software-Today&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Tomas&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Software-Today&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Software-Today&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
   <br><br>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=Tomas&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=Software-Today&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
