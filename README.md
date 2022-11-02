@@ -105,13 +105,17 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 ### Web & Mobile application using various frameworks
 <br />
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<img src="https://activity-graph.herokuapp.com/graph?username=naruhitokaide&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=naruhitokaide&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=software-today&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=naruhitokaide&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
   <br><br>
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; align-items: center;">
