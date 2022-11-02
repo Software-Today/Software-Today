@@ -124,16 +124,3 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <div style="display: flex; align-items: center;">
-      <a href="mailto:senior.dev.software@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">nicoli.dev.430@gmail.com</b>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.65d41fc052177285</b>
-    </div>
-  </div>
-<div>
