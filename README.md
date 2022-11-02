@@ -105,7 +105,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 ### Web & Mobile application using various frameworks
 <br />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=naruhitokaide&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Tomas&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=software-today&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
