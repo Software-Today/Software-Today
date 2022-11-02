@@ -104,10 +104,9 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 
 ### Web & Mobile application using various frameworks
 <br />
-<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Software-Today&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
-
+<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
   <a href="mailto:software.today.code@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
