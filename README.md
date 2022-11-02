@@ -114,6 +114,17 @@ Have worked in all phases of the project life cycle, using a wide variety of too
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Software-Today&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
+<p align="center">
+  <a href="mailto:software.today.code@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/oyeCftzSgxnD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tomas-lind-6a08a8245/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/linkedin.png"  width="50" /></a>
+  
+</p>
+
+<h2 align="center"> Thanks for visiting my profile. </h2>
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <div style="display: flex; justify-content: space-between;">
