@@ -107,13 +107,6 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Software-Today&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Software-Today&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Software-Today&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
-  <br><br>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=Software-Today&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
-
 <p align="center">
   <a href="mailto:software.today.code@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
